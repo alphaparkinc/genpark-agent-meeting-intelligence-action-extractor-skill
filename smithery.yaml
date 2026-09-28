@@ -1,0 +1,6 @@
+name: genpark-agent-meeting-intelligence-action-extractor-skill
+version: 1.0.0
+description: Autonomous executive meeting intelligence parser extracting structured action items, owner assignments, deadlines, and dependency risk scores
+command: python
+args:
+  - mcp_server.py

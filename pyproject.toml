@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-agent-meeting-intelligence-action-extractor-skill"
+version = "1.0.0"
+description = "Autonomous executive meeting intelligence parser extracting structured action items, owner assignments, deadlines, and dependency risk scores"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
